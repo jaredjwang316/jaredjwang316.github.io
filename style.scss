@@ -164,29 +164,24 @@ img {
 }
 
 .site-avatar {
-  float: left;
   width: 70px;
   height: 70px;
   margin-right: 15px;
 
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    margin: 0 auto 10px auto;
   }
 
   img {
     border-radius: 5px;
+    width: 100%;
+    height: auto;
   }
 }
 
 .site-info {
-  float: left;
-
   @include mobile {
-    float: none;
-    display: block;
-    margin: 0 auto;
+    text-align: center;
   }
 }
 
