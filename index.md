@@ -16,7 +16,7 @@ Major: Computer Science
 Grade Level: College Senior  
 Expected Graduation Date: May 12, 2025  
 
-Email: [jwangj001@tamu.edu]  
+Email: [jwangj001@tamu.edu](jwangj001@tamu.edu)
 
 
 ## About My Mentor
