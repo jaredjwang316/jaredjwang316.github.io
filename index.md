@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2024 DREU Project Site
+title: Jared Wang
 ---
 
 * TOC
