@@ -19,15 +19,20 @@ Expected Graduation Date: May 12, 2025
 Email: jwangj001@tamu.edu  
 
 
-
-
 ## About My Mentor
 
-Mentor info goes here.
+Dr. Ali Ghanbari  
+Auburn University  
+Department of Computer Science & Software Engineering  
+
+Research Interests: Software testing, analysis, repair and verification  
+Link to My Mentor's Website: https://ali-ghanbari.github.io/  
+
 
 ## About My Project
 
-Project description goes here.
+Description of My Project: We are working on patch correctness assessment in test-based automated program repair. We will be using Linux and Java-based testing tools.  
+
 
 [My Final Report](files/finalreport.pdf)
 
