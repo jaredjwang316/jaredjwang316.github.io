@@ -8,13 +8,15 @@ title: Jared Wang
 
 ## About Me
 
-Name: Jared Wang
-Email: jwangj001@tamu.edu
-Major: Computer Science
-Grade: College Senior
-Expected Graduation: Spring 2025
-School: Texas A&M University 
-Department: Computer Science & Engineering
+Name: Jared Wang  
+Email: jwangj001@tamu.edu  
+School: Texas A&M University  
+Department: Computer Science & Engineering  
+Major: Computer Science  
+Grade: College Senior  
+Expected Graduation: Spring 2025  
+
+
 
 ## About My Mentor
 
