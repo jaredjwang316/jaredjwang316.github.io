@@ -16,7 +16,7 @@ Major: Computer Science
 Grade Level: College Senior  
 Expected Graduation Date: May 12, 2025  
 
-Email: jwangj001@tamu.edu  
+Email: [jwangj001@tamu.edu]  
 
 
 ## About My Mentor
@@ -26,7 +26,7 @@ Auburn University
 Department of Computer Science & Software Engineering  
 
 Research Interests: Software testing, analysis, repair and verification  
-Link to My Mentor's Website: https://ali-ghanbari.github.io/  
+Link to My Mentor's Website: [https://ali-ghanbari.github.io/](https://ali-ghanbari.github.io/)  
 
 
 ## About My Project
