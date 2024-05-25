@@ -7,6 +7,23 @@ layout: default
 
   <div class="entry">
     {{ content }}
+
+    {% if page.progress_update %}
+      <div class="progress-update">
+        <h2>Progress Update for this Week:</h2>
+        <ul>
+          {% for update in page.progress_update %}
+            <li>{{ update.date }}:
+              <ul>
+                {% for task in update.tasks %}
+                  <li>{{ task }}</li>
+                {% endfor %}
+              </ul>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
   </div>
 
 </article>
