@@ -17,7 +17,7 @@ Grade Level: Computer Science Senior
 Expected Graduation Date: May 12, 2025  
 
 Email: [jwangj001@tamu.edu](jwangj001@tamu.edu)
-
+Link to My Website: [https://www.linkedin.com/in/jared-wang-595859225/](https://www.linkedin.com/in/jared-wang-595859225/)
 
 ## About My Mentor
 
