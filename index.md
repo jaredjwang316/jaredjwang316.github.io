@@ -37,6 +37,6 @@ Description of My Project: We are working on patch correctness assessment in tes
 
 [My Final Report](files/finalreport.pdf)
 
-## My Weekly Journal
+## My Weekly Journal Update
 
 [My Journal Log](blog.html)
